@@ -14,7 +14,7 @@ function App() {
     }
   }, [textAreaValue]);
 
-  // On mount, call sendText with empty str to load session
+  // On mount, call sendText with empty string to load session
   useEffect(() => {
     (async () => {
       try {
