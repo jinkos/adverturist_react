@@ -1,0 +1,20 @@
+{
+    // The name of your Worker
+    "name": "adventurist",
+
+    // The entry point file
+    "main": "/index.html",
+
+    // Cloudflare compatibility date
+    "compatibility_date": "2022-07-12",
+
+    // Whether to use workers.dev for preview
+    "workers_dev": false,
+
+    // Route for production deployment
+    "route": {
+        "pattern": "textadventurist.com/*",
+        "zone_name": "textadventurist.com"
+    },
+
+}
