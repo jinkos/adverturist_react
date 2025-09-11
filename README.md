@@ -1,3 +1,8 @@
+# Welcome to the Text Adventurist
+## You can play the games at https://textadventurist.com
+### Frontend - typescript / react / cloudflare
+### Backend - python / mongodb (atlas) / fly.io / langchain
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
